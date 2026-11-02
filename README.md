@@ -21,4 +21,10 @@ An interactive 2D arcade-style shooting game built with **Python**, **Tkinter**,
 
 Follow these quick steps after downloading or cloning this repository to run the project.
 
-### pip install -r requirements.txt :in any of the terminals.
+
+Open terminals and run
+'''
+###git clone [https://github.com/kgowtham007/Hand-ball-Shooter.git](https://github.com/kgowtham007/Hand-ball-Shooter.git)
+cd Hand-ball-Shooter
+
+#### pip install -r requirements.txt 
